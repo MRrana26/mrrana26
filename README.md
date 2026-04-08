@@ -23,7 +23,5 @@ Currently growing my skills in **React & Next.js ecosystem**.
 
 ### 🌐 Social Links
 <p align="left">
-<a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="your-snapchat-link"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
-<a href="your-tiktok-link"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dev-masudur-rahman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
