@@ -10,7 +10,7 @@ Currently growing my skills in **React & Next.js ecosystem**.
 - 🔭 I’m currently working on **Ettehad Assets Ltd Management System**.
 - 🌱 I’m currently exploring **Next.js** to enhance my frontend skills.
 - 💬 Ask me about **React, Tailwind CSS, or Android Development**.
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **hafezmasudranamn@gmail.com**
 
 ---
 
