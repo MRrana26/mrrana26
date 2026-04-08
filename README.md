@@ -1,6 +1,6 @@
 # Hi there, I'm MASUDUR RAHMAN! 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Masudur%20Rahman&desc=Open%20Source%20Contributor%20|%20React%20%26%20Android&descAlign=50&descSize=16&fontSize=35&fontColor=ffffff&reversal=true)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Masudur%20Rahman&desc=Junior%20Web%20Developer%20|%20React%20%26%20Next.js&descAlign=50&descSize=16&fontSize=35&fontColor=ffffff&reversal=true)
 
 ## 🚀 About Me
 I am a passionate **Junior Web Developer** focused on building modern, responsive and user-friendly web applications.  
