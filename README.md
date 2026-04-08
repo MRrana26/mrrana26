@@ -23,5 +23,6 @@ Currently growing my skills in **React & Next.js ecosystem**.
 
 ### 🌐 Social Links
 <p align="left">
-<a href="https://www.linkedin.com/in/dev-masudur-rahman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dev-masudur-rahman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/mrrana26" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
