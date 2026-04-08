@@ -1,6 +1,6 @@
 # Hi there, I'm MASUDUR RAHMAN! 👋
 
-![Banner Image](https://your-banner-link.com) 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Masudur%20Rahman&fontSize=35&fontColor=ffffff)
 ### 🚀 About Me
 I am a passionate **App and Web Developer** with a focus on building functional and high-performance applications. Currently, I am leading **The Holy Quran International Madrasha** as Principal while pursuing my love for modern tech.
 
