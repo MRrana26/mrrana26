@@ -1,6 +1,6 @@
 # Hi there, I'm MASUDUR RAHMAN! 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Masudur%20Rahman&fontSize=35&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Masudur%20Rahman&desc=Junior%20Web%20Developer&descAlign=50&descSize=18&fontSize=35&fontColor=ffffff)
 
 ## 🚀 About Me
 I am a passionate **Junior Web Developer** focused on building modern, responsive and user-friendly web applications.  
