@@ -1,8 +1,11 @@
 # Hi there, I'm MASUDUR RAHMAN! 👋
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Masudur%20Rahman&fontSize=35&fontColor=ffffff)
-### 🚀 About Me
-I am a passionate **App and Web Developer** with a focus on building functional and high-performance applications. Currently, I am leading **The Holy Quran International Madrasha** as Principal while pursuing my love for modern tech.
+
+## 🚀 About Me
+I am a passionate **Junior Web Developer** focused on building modern, responsive and user-friendly web applications.  
+I enjoy learning new technologies and turning ideas into real-world projects.  
+Currently growing my skills in **React & Next.js ecosystem**.
 
 - 🔭 I’m currently working on **Ettehad Assets Ltd Management System**.
 - 🌱 I’m currently exploring **Next.js** to enhance my frontend skills.
