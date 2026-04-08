@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm MASUDUR RAHMAN! 👋
 
-<!--
-**MRrana26/mrrana26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](https://your-banner-link.com) 
+### 🚀 About Me
+I am a passionate **App and Web Developer** with a focus on building functional and high-performance applications. Currently, I am leading **The Holy Quran International Madrasha** as Principal while pursuing my love for modern tech.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Ettehad Assets Ltd Management System**.
+- 🌱 I’m currently exploring **Next.js** to enhance my frontend skills.
+- 💬 Ask me about **React, Tailwind CSS, or Android Development**.
+- 📫 Reach me at: **your-email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,androidstudio,java,firebase,figma,github,cloudflare" />
+</p>
+
+---
+
+### 🌐 Social Links
+<p align="left">
+<a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="your-snapchat-link"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
+<a href="your-tiktok-link"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
